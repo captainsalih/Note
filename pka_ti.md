@@ -4,3 +4,7 @@
 3) evaluate the gap
 
 # RECIPE
+1) Input
+2) topology.lmp
+3) run.sh
+NOTE : check pair_style, end point pair_coeff * *, ensure the topology consistent with the number
