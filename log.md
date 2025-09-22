@@ -12,7 +12,7 @@
 3) Run acetic_1nm 0.75, 0.25, plus reftraj
 4) compare with the DFT data using log, since the reftraj data is going to be sparsed (in order to reduce the size of the generated data)
 
-## REFTRAJ-ENDPOINTS
+### REFTRAJ-ENDPOINTS
 1) copy input and dump to REFTRAJ, edit the mass commented or out commented based on the opposite topology
 2) Edit the pair_style match to the opposite potential
 3) Edit the last
