@@ -10,4 +10,4 @@
 1) Create the proton density, eval using cutoff criteria, set the farthest distance as the proton
 2) Run bulk continue
 3) Run acetic_1nm 0.75, 0.25, plus reftraj
-4) compare with the DFT data
+4) compare with the DFT data using log, since the reftraj data is going to be sparsed (in order to reduce the size of the generated data)
