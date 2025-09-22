@@ -11,3 +11,19 @@
 2) Run bulk continue
 3) Run acetic_1nm 0.75, 0.25, plus reftraj
 4) compare with the DFT data using log, since the reftraj data is going to be sparsed (in order to reduce the size of the generated data)
+
+#REFTRAJ-ENDPOINTS
+1) copy input and dump to REFTRAJ, edit the mass commented or out commented based on the opposite topology
+2) Edit the pair_style match to the opposite potential
+3) Edit the last
+```bash
+rerun ./surface_2.dump first 0 every 1 dump x y z
+```
+---
+4) Disable the restart. Just in case one want to dump the file then change the name so it will not the same
+```bash
+dump  1 all custom 1 revt_surface_2.dump id type x y z
+```
+---
+6) copy the opposite potential NNP and topo lmp file to the current REFTRAJ dir
+ 
