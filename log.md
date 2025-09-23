@@ -32,4 +32,23 @@ dump  1 all custom 1 revt_surface_2.dump id type x y z
 
 # DFT
 use gap_eval to evaluate the gap of mix energy $5-$4
- 
+
+### REFTRAJ-INTERMEDIATE
+1) First run for the intermediate, first generate the trajectory at those configuration and run REFTRAJ twice REFTRAJ_D and REFTRAJ_D
+2) For example 0,5
+```bash
+pair_style  hybrid/scaled 1.00 deepmd ave_lambda0.pb 0.00 deepmd ave_lambda1.pb
+```
+---
+3) For example 0,25
+```bash
+pair_style  hybrid/scaled 0.75 deepmd ave_lambda0.pb 0.25 deepmd ave_lambda1.pb
+```
+---
+4) For example 0,75
+```bash
+pair_style   hybrid/scaled 0.75 deepmd ave_lambda0.pb 0.25 deepmd ave_lambda1.pb
+```
+---
+
+ this going to be generate the configuration at particular intermediate state 
