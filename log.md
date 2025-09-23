@@ -28,4 +28,8 @@ dump  1 all custom 1 revt_surface_2.dump id type x y z
 6) copy the opposite potential NNP and topo lmp file to the current REFTRAJ dir
 7) Apply the post-processing code, for initial endpoints (to sparse the output match to the dump used in reftraj)
 8) On the REFTRAJ, use post-processing, with none sparse, the output will be extracted_data
+
+
+# DFT
+use gap_eval to evaluate the gap of mix energy $5-$4
  
