@@ -14,5 +14,6 @@
 
 # SEP23
 1) continue run for bulk, Flat, and Pit. Most of Flat have reached the 10ps, decided to continue
-2) frezee and analysis the r-squared for active6 of BULK 
+2) frezee and analysis the r-squared for active6 of BULK
+3) finish the last part, d-band center of arka
  
