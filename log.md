@@ -16,4 +16,7 @@
 1) continue run for bulk, Flat, and Pit. Most of Flat have reached the 10ps, decided to continue
 2) frezee and analysis the r-squared for active6 of BULK
 3) finish the last part, d-band center of arka
+
+# SEP26
+1) continue run for bulk using net active6, Flat continue to 20ns, and Pit continue to5ns currently only 4ns. 
  
