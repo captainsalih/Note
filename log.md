@@ -26,5 +26,12 @@
 1) train 10000 in interface11 data of acid ion in solution, got better result than what we have so far using i=pi current vesion
 2) continue cp2k 10000, 7 hour wait,
 3) once its done take tail 9000 of the previous, combine with the continue and train for 1 mio
-    
+use the following for a sufficient calculation that required accuracy. the benchmark is on https://manual.cp2k.org/trunk/methods/dft/cutoff.html
+
+```bash
+&MGRID
+  CUTOFF 250
+  REL_CUTOFF 60 
+&END MGRID
+```    
  
