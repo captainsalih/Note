@@ -18,5 +18,13 @@
 3) finish the last part, d-band center of arka
 
 # SEP26
-1) continue run for bulk using net active6, Flat continue to 20ns, and Pit continue to5ns currently only 4ns. 
+1) continue run for bulk using net active6, Flat continue to 20ns, and Pit continue to5ns currently only 4ns.
+2) interface2 down, when change the GPU to 5090 RTX
+3) once is up fix the problem with NVIDIA driver to tensorflow 2
+
+# OCT 4
+1) train 10000 in interface11 data of acid ion in solution, got better result than what we have so far using i=pi current vesion
+2) continue cp2k 10000, 7 hour wait,
+3) once its done take tail 9000 of the previous, combine with the continue and train for 1 mio
+    
  
