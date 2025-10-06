@@ -38,4 +38,11 @@ use the following for a sufficient calculation that required accuracy. the bench
 # OCT 5
 1) github page fails, due to pull and merge on the wrong dir and then trying to merge back, so now using windows visual studio
 2) install visual studio on window, install git, install ruby, jekyl and gem for the theme
-3) delete the repo and clone again, 
+3) delete the repo and clone again
+4) focus on writing paper, and research statement 
+
+    
+# OCT 6
+1) github page succes in the linux env, do not edit online. Next task is to build it steady
+2) pc lab error, due to upgrade to the new ubuntu noble, keyboard hang, cant log in
+    
