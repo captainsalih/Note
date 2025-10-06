@@ -45,4 +45,5 @@ use the following for a sufficient calculation that required accuracy. the bench
 # OCT 6
 1) github page succes in the linux env, do not edit online. Next task is to build it steady
 2) pc lab error, due to upgrade to the new ubuntu noble, keyboard hang, cant log in
+3) new 10000 continue chang fa is done, now its in training, the energy profile with prev 10K is promising 
     
