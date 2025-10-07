@@ -56,5 +56,6 @@ use the following for a sufficient calculation that required accuracy. the bench
 1) pka anthony adsorb and not adsorb, paper, active learning 
 2) analysis, new analysis for proton at surface, and orientation, MRT, coverage, check the notes in phone and catatan di rumah
 3) chang systyem, need to be run, analysis discussed by christina
-4) update gpage, cv, motivation letter, research statement and do apply 
+4) update gpage, cv, motivation letter, research statement and do apply
+5) continue all system, FLAT is already more than 10ns
     
