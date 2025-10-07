@@ -47,3 +47,14 @@ use the following for a sufficient calculation that required accuracy. the bench
 2) pc lab error, due to upgrade to the new ubuntu noble, keyboard hang, cant log in
 3) new 10000 continue chang fa is done, now its in training, the energy profile with prev 10K is promising 
     
+# OCT 7
+1) computer is run, graphic card is now waiting to change
+2) continue bulk, need 1 more active learning
+3) finish abstract arka
+
+# TO DO
+1) pka anthony adsorb and not adsorb, paper, active learning 
+2) analysis, new analysis for proton at surface, and orientation, MRT, coverage, check the notes in phone and catatan di rumah
+3) chang systyem, need to be run, analysis discussed by christina
+4) update gpage, cv, motivation letter, research statement and do apply 
+    
