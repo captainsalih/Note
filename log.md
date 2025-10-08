@@ -54,7 +54,9 @@ use the following for a sufficient calculation that required accuracy. the bench
 
 # OCT 8
 1) for cubic bulk, from 4 to 7 is use active6 net, use diff to check the difference
-2) active7 for cubic is on the train at interface11, for 500 AIMD sampling --block 2 --stride 20 gives 50 frame, then modify with dummy  
+2) active7 for cubic is on the train at interface11, for 500 AIMD sampling --block 2 --stride 20 gives 50 frame, then modify with dummy
+3) changfa 100 step active learning ready to be trained
+4) continue for more 10000 just in case this additional does not work
 
 
 # TO DO
