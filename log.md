@@ -57,7 +57,9 @@ use the following for a sufficient calculation that required accuracy. the bench
 2) active7 for cubic is on the train at interface11, for 500 AIMD sampling --block 2 --stride 20 gives 50 frame, then modify with dummy
 3) changfa 100 step active learning ready to be trained
 4) continue for more 10000 just in case this additional does not work
-5) run h3o_1nm lambda 1 and 0 on elysium
+5) run h3o_1nm lambda 1 and 0 on elysium, the combination is done by generating data from aimd data, here 0 cp2k is 1 lammps, applied also for 1 cp2k. The lmp file is generate using atomsk, check pka_ti for detail. the input is the same with the h30 bulk with some modification
+6) run active8 of cubic bulk on daenfall
+
 
 
 # TO DO
