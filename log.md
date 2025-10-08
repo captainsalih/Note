@@ -52,10 +52,17 @@ use the following for a sufficient calculation that required accuracy. the bench
 2) continue bulk, need 1 more active learning
 3) finish abstract arka
 
+# OCT 8
+1) for cubic bulk, from 4 to 7 is use active6 net, use diff to check the difference
+2) active7 for cubic is on the train at interface11, for 500 AIMD sampling --block 2 --stride 20 gives 50 frame, then modify with dummy  
+
+
 # TO DO
 1) pka anthony adsorb and not adsorb, paper, active learning 
 2) analysis, new analysis for proton at surface, and orientation, MRT, coverage, check the notes in phone and catatan di rumah
 3) chang systyem, need to be run, analysis discussed by christina
 4) update gpage, cv, motivation letter, research statement and do apply
 5) continue all system, FLAT is already more than 10ns
+
+
     
