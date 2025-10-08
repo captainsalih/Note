@@ -11,6 +11,14 @@
 4) run.sh
 NOTE : check pair_style, end point pair_coeff * *, ensure the topology consistent with the number
 
+### TOPOLOGY
+1) use xyz file and install atomsk
+```bash
+atomsk system.xyz lmp
+```
+2) edit the xhi,yhi,zhi similar to the CELL on the input cp2k
+3) check the unit, number of atom, etc
+
 ### REFTRAJ-ENDPOINTS
 1) copy input and dump to REFTRAJ, edit the mass commented or out commented based on the opposite topology
 2) Edit the pair_style match to the opposite potential
