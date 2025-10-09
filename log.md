@@ -60,7 +60,8 @@ use the following for a sufficient calculation that required accuracy. the bench
 5) run h3o_1nm lambda 1 and 0 on elysium, the combination is done by generating data from aimd data, here 0 cp2k is 1 lammps, applied also for 1 cp2k. The lmp file is generate using atomsk, check pka_ti for detail. the input is the same with the h30 bulk with some modification
 6) run active8 of cubic bulk on daenfall
 
-
+# OCT 9
+1) continue NNP for BULK, FLAT, PIT
 
 # TO DO
 1) pka anthony adsorb and not adsorb, paper, active learning 
