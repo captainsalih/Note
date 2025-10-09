@@ -62,6 +62,11 @@ use the following for a sufficient calculation that required accuracy. the bench
 
 # OCT 9
 1) continue NNP for BULK, FLAT, PIT
+2) run TI-NNP for H3O, Lambda 0.25, 0.25, 0.75 (REFTRAJ TWICE NOT YET)
+3) run TI-NNP for acetic_confine REFTRAJ for 0.25, 0.5, 0.75
+4) run TI-NNP for acetic_confine_adsorb for all
+5) run TI-AIMD for acetic_confine_adsorb
+
 
 # TO DO
 1) pka anthony adsorb and not adsorb, paper, active learning 
