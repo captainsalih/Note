@@ -68,6 +68,13 @@ use the following for a sufficient calculation that required accuracy. the bench
 5) run TI-AIMD for acetic_confine_adsorb on daenfall
 6) run TI-AIMD for acetic_1nm on daenfall
 
+# OCT 12
+1) TI on daenfall still on pending, switch to dhysnet run right away
+2) since there is CHARGE -1 use LSD afterward,
+3) succes finish CUBIC active on interface11, next train CHANG
+4) TI-adsorb all and acetid REFTRAJ is on elysium and not copy yet
+5) data for CUBIC on elysium is copied to the temporary now run continue with new net fresh from interface 11
+
 
 # TO DO
 1) pka anthony adsorb and not adsorb, paper, active learning 
