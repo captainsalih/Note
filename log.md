@@ -75,6 +75,13 @@ use the following for a sufficient calculation that required accuracy. the bench
 4) TI-adsorb all and acetid REFTRAJ is on elysium and not copy yet
 5) data for CUBIC on elysium is copied to the temporary now run continue with new net fresh from interface 11
 
+# OCT 13
+1) TI on daenfall still on pending
+2) On Dhysnet is still running, long than I expected is 286 simulation time get 2000 and enough
+3) The AIMD for the adsorb is very different with the one on the bulk, the FUNCTIONAL is B3LYP
+4) continue the simulation of CUBIC, PIT, FLAT, this time FLAT use new net
+
+
 
 # TO DO
 1) pka anthony adsorb and not adsorb, paper, active learning 
