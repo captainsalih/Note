@@ -81,6 +81,13 @@ use the following for a sufficient calculation that required accuracy. the bench
 3) The AIMD for the adsorb is very different with the one on the bulk, the FUNCTIONAL is B3LYP
 4) continue the simulation of CUBIC, PIT, FLAT, this time FLAT use new net
 
+# OCT 14-16
+1) TI need to increase the temp
+2) daenfal for TI is fast, but currently full
+3) the problem of different in current result of TI is due to the assignment of H1 or dummy on the pos file
+5) continue the simulation of CUBIC, PIT, FLAT, this time FLAT use new net
+6) check the stability of new net
+7) chang simulation is getting stable but still far from equilibration O of molecule is pulled away..may be due to the hyperparameter
 
 
 # TO DO
@@ -89,6 +96,7 @@ use the following for a sufficient calculation that required accuracy. the bench
 3) chang systyem, need to be run, analysis discussed by christina
 4) update gpage, cv, motivation letter, research statement and do apply
 5) continue all system, FLAT is already more than 10ns
+6) ARKA picture
 
 
     
