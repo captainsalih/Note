@@ -89,6 +89,9 @@ use the following for a sufficient calculation that required accuracy. the bench
 6) check the stability of new net
 7) chang simulation is getting stable but still far from equilibration O of molecule is pulled away..may be due to the hyperparameter
 
+# OCT 17
+1) Copy and continue PIT, FLAT, BULK
+2) Check BULK new net stability also for flat
 
 # TO DO
 1) pka anthony adsorb and not adsorb, paper, active learning 
