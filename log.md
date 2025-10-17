@@ -95,6 +95,8 @@ use the following for a sufficient calculation that required accuracy. the bench
 3) the new new of bulk disperse, use 8.8 for active9
 4) there is also active8 that still not train, get 50 out of it
 5) FLat is getting better with new net
+6) on optimize new tool surface density, there is a animation of H
+7) I Think its not neccessary to know how many H, may be distribution is enough, write it first 
 
 # TO DO
 1) pka anthony adsorb and not adsorb, paper, active learning, TEMPERATURE
