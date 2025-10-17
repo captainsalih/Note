@@ -96,7 +96,7 @@ use the following for a sufficient calculation that required accuracy. the bench
 4) there is also active8 that still not train, get 50 out of it
 
 # TO DO
-1) pka anthony adsorb and not adsorb, paper, active learning 
+1) pka anthony adsorb and not adsorb, paper, active learning, TEMPERATURE
 2) analysis, new analysis for proton at surface, and orientation, MRT, coverage, check the notes in phone and catatan di rumah
 3) chang systyem, need to be run, analysis discussed by christina
 4) update gpage, cv, motivation letter, research statement and do apply
