@@ -102,6 +102,8 @@ use the following for a sufficient calculation that required accuracy. the bench
 1) Complete high temperature 340,350,360 of acetic acid
 2) Run high temperature for acetic adsorb
 3) create pyton for pka eval
+4) the h30 1nm is wrong, need to re-do
+5) success on making polyfit
 
 
 # TO DO
