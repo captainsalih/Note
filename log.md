@@ -105,6 +105,12 @@ use the following for a sufficient calculation that required accuracy. the bench
 4) the h30 1nm is wrong, need to re-do
 5) success on making polyfit
 
+# OCT 21
+1) Finish the pka, the trend and value is in line.
+2) need to check the systematic error from jun cheng paer
+3) code adsorption drift
+4) additional point for acetic acid as well as confinement
+5) check paper from anthony, is pka up or donw on confinement
 
 # TO DO
 1) pka anthony adsorb and not adsorb, paper, active learning, TEMPERATURE
