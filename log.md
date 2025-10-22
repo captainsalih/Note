@@ -112,6 +112,11 @@ use the following for a sufficient calculation that required accuracy. the bench
 4) additional point for acetic acid as well as confinement
 5) check paper from anthony, is pka up or donw on confinement
 
+# OCT 22
+1) The h3O_nm is actuially right, you lmp is created by you using atomsk, the one in anthony is acetic conf configuration, the input is actually created according to h3O in bulk in term of which one is going to be restarined
+2) Since the h3O_1m is the same for middle and adsorb, there are data for high temp, without reftraj, check it out
+
+3) 
 # TO DO
 1) pka anthony adsorb and not adsorb, paper, active learning, TEMPERATURE
 2) analysis, new analysis for proton at surface, and orientation, MRT, coverage, check the notes in phone and catatan di rumah
