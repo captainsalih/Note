@@ -118,8 +118,8 @@ use the following for a sufficient calculation that required accuracy. the bench
 3) from this you must undertrand that it is important to write in very detailed version so you are not lost, especially in handling parallel system
 
 # OCT 27
-1) The h3O_nm for intermediate is wrong since its not contain Si, currently run
-2) run acetic bulk on 300 K
+1) The h3O_nm for intermediate is wrong since its not contain Si, currently run, REFTRAJ D and P not run yet
+2) run acetic bulk on 300 K not the REFTRAJ
 3) increase the system size to check the finite effect, check the code to parse the system to make it periodically big, then replace the other acid to 4 water
 
 
