@@ -117,7 +117,13 @@ use the following for a sufficient calculation that required accuracy. the bench
 2) Since the h3O_1m is the same for middle and adsorb, there are data for high temp, without reftraj, check it out
 3) from this you must undertrand that it is important to write in very detailed version so you are not lost, especially in handling parallel system
 
-4) 
+# OCT 27
+1) The h3O_nm for intermediate is wrong since its not contain Si, currently run
+2) run acetic bulk on 300 K
+3) increase the system size to check the finite effect, check the code to parse the system to make it periodically big, then replace the other acid to 4 water
+
+
+
 # TO DO
 1) pka anthony adsorb and not adsorb, paper, active learning, TEMPERATURE
 2) analysis, new analysis for proton at surface, and orientation, MRT, coverage, check the notes in phone and catatan di rumah
