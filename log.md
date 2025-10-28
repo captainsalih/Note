@@ -122,6 +122,9 @@ use the following for a sufficient calculation that required accuracy. the bench
 2) run acetic bulk on 300 K not the REFTRAJ
 3) increase the system size to check the finite effect, check the code to parse the system to make it periodically big, then replace the other acid to 4 water
 
+# OCT 28
+1) set first mpi gpu for deepmd training
+2) using cpu and distribution, under the hood of tensorflow
 
 
 # TO DO
