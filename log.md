@@ -130,9 +130,9 @@ use the following for a sufficient calculation that required accuracy. the bench
 1) undestanding the basic of machine learning, Neural Network
 2) using pytocrcs, increasing the accuracy by comparing linear neural network and conolutional neural network testing on sign hand
 3) Understanding the data augmentation and augmentation. Test also on the sign hand
-4) using the avail model on pytorc hub, testing on clasified door for animal
-5) transferlearning
-6) 
+4) using the avail model on pytorc hub, testing on clasified door for animal, 
+5) transferlearning, and freezing
+6) key convolution, convolution, flaten, then linear, linear, out
 
 # TO DO
 1) pka anthony adsorb and not adsorb, paper, active learning, TEMPERATURE
