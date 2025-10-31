@@ -134,6 +134,12 @@ use the following for a sufficient calculation that required accuracy. the bench
 5) transferlearning, and freezing
 6) key convolution, convolution, flaten, then linear, linear, out
 
+# OCT 31
+1) Learning about the GPU speed paralelization, split the network on different network, using tensor parallel, and then pipeline parallel, check nccl
+2) about the the assesment day3 
+3) clone of the gpt, pythorc in gpt model for the data,
+4) run beseline, then implement arg runfirstdeepsped.py, refer the notebook6 on convlution, its about deepspeeed
+
 # TO DO
 1) pka anthony adsorb and not adsorb, paper, active learning, TEMPERATURE
 2) analysis, new analysis for proton at surface, and orientation, MRT, coverage, check the notes in phone and catatan di rumah
