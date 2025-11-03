@@ -142,7 +142,8 @@ use the following for a sufficient calculation that required accuracy. the bench
 
 # Nov 3
 1) h3o_1nm is finished on elysium
-2) 300 is done 
+2) 300 is done
+3) REFTRAJ_P and REFTRAJ_D of intermediate is run
 
 
 # TO DO
@@ -151,7 +152,8 @@ use the following for a sufficient calculation that required accuracy. the bench
 3) chang systyem, need to be run, analysis discussed by christina
 4) update gpage, cv, motivation letter, research statement and do apply
 5) continue all system, FLAT is already more than 10ns
-6) ARKA picture
+6) ARKA grid search code
+7) TAUFIK use the same code diff system
 
 
     
