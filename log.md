@@ -144,7 +144,7 @@ use the following for a sufficient calculation that required accuracy. the bench
 1) h3o_1nm is finished on elysium
 2) 300 is done
 3) REFTRAJ_P and REFTRAJ_D of intermediate is run, if correc, then run for the pka eval, use the code to generate the periodic it better to move it on the middle use avogadro (check the difference)
-4) 
+4) TO DO,analysis 300 acetic, 330 confinement, big system (ceate system first)
 
 
 # TO DO
