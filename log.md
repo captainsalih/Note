@@ -140,6 +140,11 @@ use the following for a sufficient calculation that required accuracy. the bench
 3) clone of the gpt, pythorc in gpt model for the data,
 4) run beseline, then implement arg runfirstdeepsped.py, refer the notebook6 on convlution, its about deepspeeed
 
+# Nov 3
+1) h3o_1nm is finished on elysium
+2) 300 is done 
+
+
 # TO DO
 1) pka anthony adsorb and not adsorb, paper, active learning, TEMPERATURE
 2) analysis, new analysis for proton at surface, and orientation, MRT, coverage, check the notes in phone and catatan di rumah
