@@ -146,6 +146,14 @@ use the following for a sufficient calculation that required accuracy. the bench
 3) REFTRAJ_P and REFTRAJ_D of intermediate is run, if correc, then run for the pka eval, use the code to generate the periodic it better to move it on the middle use avogadro (check the difference)
 4) TO DO,analysis 300 acetic, 330 confinement, big system (ceate system first)
 
+# Nov 4
+1) confinement finish
+2) create python to multiply the box, check surface_pes_grid project on gpt, the chat is replicationg the PBC
+3) its going to create 8 copy of periodic surround it, 1 0 1 mean 1 copy in x, 0 in y, and 1 in z
+```bash
+python transform_big_cell.py   --in 1_frame.xyz   --out supercell.xyz   --box  22.2680 25.2900  20.3530   --copies 1 0 1
+```    
+4) run lambda 0 on elysium, tesint success
 
 # TO DO
 1) pka anthony adsorb and not adsorb, paper, active learning, TEMPERATURE
