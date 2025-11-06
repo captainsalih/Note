@@ -155,6 +155,15 @@ python transform_big_cell.py   --in 1_frame.xyz   --out supercell.xyz   --box  2
 ```    
 4) run lambda 0 on elysium, tesint success
 
+# Nov 6
+1) 3 points for bigger system is done
+2) since the energy increase multipy by the size of the system
+3) now running the hydronium on the elysium
+4) arka code for grid search is done
+5) use the density profile to get C so we know where is the distribution of them on the system
+6) to do : make the angle for surface water molecule, using angle from normal to bisection and normal side of water so we get flat orientation
+7) combine the data and stride and run the simulation, the data for angle should give the ide of structural of the surface, the the edge
+
 # TO DO
 1) pka anthony adsorb and not adsorb, paper, active learning, TEMPERATURE
 2) analysis, new analysis for proton at surface, and orientation, MRT, coverage, check the notes in phone and catatan di rumah
