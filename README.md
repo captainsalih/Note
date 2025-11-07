@@ -14,7 +14,7 @@ or
 export CUDA_VISIBLE_DEVICES=1
 ```
 however, if run this at the same terminal its going to be overwrite hence only the last will be taken, therefore, here are some way on how to do it 
-# CUDA Launch Cheat Sheet 📝
+# CUDA Launch Cheat Sheet
 
 ## 🔹 1. Run on one specific GPU
 ```bash
