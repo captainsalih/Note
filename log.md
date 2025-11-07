@@ -164,6 +164,11 @@ python transform_big_cell.py   --in 1_frame.xyz   --out supercell.xyz   --box  2
 6) to do : make the angle for surface water molecule, using angle from normal to bisection and normal side of water so we get flat orientation
 7) combine the data and stride and run the simulation, the data for angle should give the ide of structural of the surface, the the edge
 
+# Nov 7
+1) big system h3o fail due to the box size
+2) to do : similar to the previous one make the angular analysis
+
+
 # TO DO
 1) pka anthony adsorb and not adsorb, paper, active learning, TEMPERATURE
 2) analysis, new analysis for proton at surface, and orientation, MRT, coverage, check the notes in phone and catatan di rumah
