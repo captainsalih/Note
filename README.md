@@ -82,6 +82,6 @@ bash launch_all.sh
 
 ---
 
-✅ Golden rule:  
+Golden rule:  
 - Inline `CUDA_VISIBLE_DEVICES=…` → **always safe** in a shared shell.  
 - Export once and flip between runs → **risky**, easy to overlap jobs.  
