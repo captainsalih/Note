@@ -173,16 +173,16 @@ python transform_big_cell.py   --in 1_frame.xyz   --out supercell.xyz   --box  2
 2) on the reduction data, use configuration, plot energy or force vs configuration, use soap to check the similarity, reduce it
 3) on the angular analyisis, similar to the surface proton, where we use ROI, means that we can select first solvation layers, second, etc ,and evaluate the angle orienatation
 4) to do : angular analisys, pka h3o big finalize, write the paper, target 1 week
-5) check cp2k with higher level of simulation
+5) check cp2k with higher level of simulation, use for halide, microsoft functional
 
 
-# TO DO
-1) pka anthony adsorb and not adsorb, paper, active learning, TEMPERATURE
-2) analysis, new analysis for proton at surface, and orientation, MRT, coverage, check the notes in phone and catatan di rumah
+# 1TO DO
+1) pka anthony adsorb and not adsorb, paper, active learning, TEMPERATURE, DONE
+2) analysis, new analysis for proton at surface, and orientation, MRT, coverage, check the notes in phone and catatan di rumah; DONE
 3) chang systyem, need to be run, analysis discussed by christina
 4) update gpage, cv, motivation letter, research statement and do apply
-5) continue all system, FLAT is already more than 10ns
-6) ARKA grid search code
+5) continue all system, FLAT is already more than 10ns; CHECK CUBIC WHETHER IT NEED ACTIVE LEARN; I BELIEVE THERE IS DATA RUN ON HPC; CHECK
+6) ARKA grid search code DONE
 7) TAUFIK use the same code diff system
 
 
