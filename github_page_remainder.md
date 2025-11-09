@@ -5,3 +5,4 @@ this is dedicated to you, from yourself that aware you cant remember anything at
 ```bash
 bundle exec jekyll serve
 ```
+3) one can create a new one on the _page, the easiest way is to copy using the similar available file.md so all the link and everything is fix
