@@ -13,4 +13,8 @@ bundle exec jekyll serve
   preview={image_qmm_24.gif},
   abbr={J.Phys.Chem.C},
 ```
-
+6) to list on the selected publication simply add the following on the bibtex
+```bash
+  selected={true}
+```
+   
