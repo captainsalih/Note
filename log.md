@@ -174,6 +174,9 @@ python transform_big_cell.py   --in 1_frame.xyz   --out supercell.xyz   --box  2
 3) on the angular analyisis, similar to the surface proton, where we use ROI, means that we can select first solvation layers, second, etc ,and evaluate the angle orienatation
 4) to do : angular analisys, pka h3o big finalize, write the paper, target 1 week
 5) check cp2k with higher level of simulation, use for halide, microsoft functional
+6) on chang, now 50K dataset, system not explode but it seems the distance elongated, currently increase the sel for Na and Cl
+7) to do is optimize the configuration, add to data set, or add new data that already run on chang daenfal (20000), combine it become 70K
+8) make sure the high energy is not include on the dataset
 
 
 # 1TO DO
