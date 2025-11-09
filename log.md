@@ -168,6 +168,13 @@ python transform_big_cell.py   --in 1_frame.xyz   --out supercell.xyz   --box  2
 1) big system h3o fail due to the box size
 2) to do : similar to the previous one make the angular analysis
 
+# Nov 7
+1) on gpu the pka big NNP takes 13 hours with gpu
+2) on the reduction data, use configuration, plot energy or force vs configuration, use soap to check the similarity, reduce it
+3) on the angular analyisis, similar to the surface proton, where we use ROI, means that we can select first solvation layers, second, etc ,and evaluate the angle orienatation
+4) to do : angular analisys, pka h3o big finalize, write the paper, target 1 week
+5) check cp2k with higher level of simulation
+
 
 # TO DO
 1) pka anthony adsorb and not adsorb, paper, active learning, TEMPERATURE
