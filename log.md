@@ -182,6 +182,7 @@ python transform_big_cell.py   --in 1_frame.xyz   --out supercell.xyz   --box  2
 1) the difference in energy between h3o big and acet big is enormous, about 129 eV, in case of small system its around 0.54eV
 2) here acetic is higher with 800-ish and h3o with 700-ish,
 3) since the energy increase by the number of molecule, currently rerun the h3o by only remove the hydrogen from additional h3o due to the multipication of the system
+4) create picrture for acetic in bulk, work again on workflow so you dont overburden
 
 
 # 1TO DO
