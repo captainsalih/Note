@@ -185,6 +185,15 @@ python transform_big_cell.py   --in 1_frame.xyz   --out supercell.xyz   --box  2
 4) create picrture for acetic in bulk, work again on workflow so you dont overburden
 5) make cv according again in detail, check ig
 
+# Nov 12
+1) deleting 3 hydrogen or 3 more water molecule decrease the energy by 65
+2) currently run with 6 less water
+3) finish analysis RDF for acetic acid and water, and figure 2 for anthony paper
+4) supplementary also done
+5) work again on workflow so you dont overburden
+9) make cv according again in detail, check ig
+
+
 
 # 1TO DO
 1) pka anthony adsorb and not adsorb, paper, active learning, TEMPERATURE, DONE
