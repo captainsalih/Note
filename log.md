@@ -193,6 +193,11 @@ python transform_big_cell.py   --in 1_frame.xyz   --out supercell.xyz   --box  2
 5) work again on workflow so you dont overburden
 9) make cv according again in detail, check ig
 
+# Nov 13
+1) Succes make new layout of CV
+2) as expectec 3 delete increase 61 energy, need 4 more to close the gap
+3) the water on the middle tends to go the surface, currently test in three different configuration
+4) prepare the water system that make the consisten number of molecule 
 
 
 # 1TO DO
