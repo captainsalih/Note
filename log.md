@@ -197,8 +197,15 @@ python transform_big_cell.py   --in 1_frame.xyz   --out supercell.xyz   --box  2
 1) Succes make new layout of CV
 2) as expectec 3 delete increase 61 energy, need 4 more to close the gap
 3) the water on the middle tends to go the surface, currently test in three different configuration
-4) prepare the water system that make the consisten number of molecule 
+4) prepare the water system that make the consisten number of molecule
 
+# Nov 17
+1) evaluation of h3o 1nm to make it on the middle is successed, turn out test2 is the good one
+2) currently run for different composition of water, name test2, test3, test4, read readme on
+```bash
+/home/saleh/temporary_files/ANTHONY/test_hydronium_big
+```
+3) create from test2 that in the middle, and delete the water again, see from which one have the best close to target and delete according to those number of water (in term of deleteion done in number 2 above)
 
 # 1TO DO
 1) pka anthony adsorb and not adsorb, paper, active learning, TEMPERATURE, DONE
