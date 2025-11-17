@@ -211,6 +211,9 @@ python transform_big_cell.py   --in 1_frame.xyz   --out supercell.xyz   --box  2
 /home/saleh/temporary_files/ANTHONY/diff_coord_h3o_1nm/test2
 ```
 name as initial.xyz
+5) change the hypearameter for chang system is a bit better, currently run 5 step exploration
+6) TO DO create the data set from the current one that has additional 20000 data point, it almost there, just in case chang does not able to put the exploration back to the machine, redo and put on daenfal or dhysnet
+7) remeber you still has exploration for bulk system
 
 # TO DO
 1) pka anthony adsorb and not adsorb, paper, active learning, TEMPERATURE, DONE
