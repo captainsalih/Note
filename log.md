@@ -206,8 +206,13 @@ python transform_big_cell.py   --in 1_frame.xyz   --out supercell.xyz   --box  2
 /home/saleh/temporary_files/ANTHONY/test_hydronium_big
 ```
 3) create from test2 that in the middle, and delete the water again, see from which one have the best close to target and delete according to those number of water (in term of deleteion done in number 2 above)
+4) for this the initial configuration is located at
+```bash
+/home/saleh/temporary_files/ANTHONY/diff_coord_h3o_1nm/test2
+```
+name as initial.xyz
 
-# 1TO DO
+# TO DO
 1) pka anthony adsorb and not adsorb, paper, active learning, TEMPERATURE, DONE
 2) analysis, new analysis for proton at surface, and orientation, MRT, coverage, check the notes in phone and catatan di rumah; DONE
 3) chang systyem, need to be run, analysis discussed by christina
