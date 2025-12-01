@@ -215,6 +215,13 @@ name as initial.xyz
 6) TO DO create the data set from the current one that has additional 20000 data point, it almost there, just in case chang does not able to put the exploration back to the machine, redo and put on daenfal or dhysnet
 7) remeber you still has exploration for bulk system
 
+# DEC 1
+1) running the new train of chang , contains 40000 aditional data
+2) run 1, 0.5, 0.25, 0.75 of big h3o , the system is running, REFTRAJ P an D constraint were not sey yet
+3) send data to tilde
+4) make figure, for paper tilde
+5) make figure for anthony and finish it
+
 # TO DO
 1) pka anthony adsorb and not adsorb, paper, active learning, TEMPERATURE, DONE
 2) analysis, new analysis for proton at surface, and orientation, MRT, coverage, check the notes in phone and catatan di rumah; DONE
