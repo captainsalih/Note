@@ -222,6 +222,11 @@ name as initial.xyz
 4) make figure, for paper tilde
 5) make figure for anthony and finish it
 
+# DEC 4
+1) additional 40000 goes to right but still not converge, now train with everything with 2 mio train steps 
+2) update figure 3 on pka paper, to do next, error bar from different E gap, and pka, then update the figure2, finish big system
+
+
 # TO DO
 1) pka anthony adsorb and not adsorb, paper, active learning, TEMPERATURE, DONE
 2) analysis, new analysis for proton at surface, and orientation, MRT, coverage, check the notes in phone and catatan di rumah; DONE
