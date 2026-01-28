@@ -226,6 +226,13 @@ name as initial.xyz
 1) additional 40000 goes to right but still not converge, now train with everything with 2 mio train steps 
 2) update figure 3 on pka paper, to do next, error bar from different E gap, and pka, then update the figure2, finish big system
 
+# Jan 29/26
+1) The location of new DPRF that get index and element is located at NEW_OPTIMIZE
+2) eval Si, C middle, C adsorb with the new DPRF
+3) eval O configuration influence the pka
+4) eval C configuration relative to surface influence the pka
+5) make table
+
 
 # TO DO
 ALWAYS REMEMBER TO LOCATED THE NEW CODE YOU MADE THAT WORKS
