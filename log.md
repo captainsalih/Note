@@ -228,6 +228,7 @@ name as initial.xyz
 
 
 # TO DO
+ALWAYS REMEMBER TO LOCATED THE NEW CODE YOU MADE THAT WORKS
 1) pka anthony adsorb and not adsorb, paper, active learning, TEMPERATURE, DONE
 2) analysis, new analysis for proton at surface, and orientation, MRT, coverage, check the notes in phone and catatan di rumah; DONE
 3) chang systyem, need to be run, analysis discussed by christina
