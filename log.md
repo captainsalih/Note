@@ -233,6 +233,20 @@ name as initial.xyz
 4) eval C configuration relative to surface influence the pka
 5) make table
 
+# Feb 5/26
+1) Create the figure for the graphical abstract
+2) create figure for the supplementary material for energy and force correlation DFT vs NNP
+3) create the script for lammps to cp2k style since the script we have now is working with cp2k format. There are two code, the first one is to generate the force and energy from dump file that formated as follow
+```bash
+dump            dAll all custom 100 dump_all.lammpstrj id type x y z fx fy fz
+dump_modify     dAll sort id
+```
+4) the output of this python script gives you traj,.xyz and force.xyz
+5) the second script is to grab the poten from log.lammps, the format in input file as follow
+```bash
+thermo_style    custom step pe ke etotal temp
+```
+6) NOTE : REMEMBER SINCE ALL OF THEM IS RUNNING USING UNIT METAL IT MEANS THE UNIT FOR COORD IS ANGSTROM, FORCE IS EV/ANGSTROM
 
 # TO DO
 ALWAYS REMEMBER TO LOCATED THE NEW CODE YOU MADE THAT WORKS
