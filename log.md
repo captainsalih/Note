@@ -258,8 +258,7 @@ thermo_style    custom step pe ke etotal temp
 /home/saleh/temporary_files/CUBIC_BULK/CUBIC_DATA_SET
 ```
 3) The simulation for L1 acetic acid at bulk for every step is still on pending on Elysium, only 3 temperature that executed
-
-
+4)  The simulation for L1 acetic acid at bulk for every step is still on pending on Elysium, only 3 temperature that executed
 
 # TO DO
 ALWAYS REMEMBER TO LOCATED THE NEW CODE YOU MADE THAT WORKS
