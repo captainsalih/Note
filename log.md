@@ -248,12 +248,25 @@ thermo_style    custom step pe ke etotal temp
 ```
 6) NOTE : REMEMBER SINCE ALL OF THEM IS RUNNING USING UNIT METAL IT MEANS THE UNIT FOR COORD IS ANGSTROM, FORCE IS EV/ANGSTROM
 
+# Feb 17/26
+1) copy data AIMD active9 to local. The location is the following. 
+```bash
+/home/saleh/temporary_files/CUBIC_BULK/ACTIVE_LEARN/300/active9
+```
+2) active8 also there, currently the data set for each of them are not yet generated. The location is at
+```bash
+/home/saleh/temporary_files/CUBIC_BULK/CUBIC_DATA_SET
+```
+3) The simulation for L1 acetic acid at bulk for every step is still on pending on Elysium, only 3 temperature that executed
+
+
+
 # TO DO
 ALWAYS REMEMBER TO LOCATED THE NEW CODE YOU MADE THAT WORKS
-1) pka anthony adsorb and not adsorb, paper, active learning, TEMPERATURE, DONE
+1) pka anthony, run L1 acetic acid bulk L1 and confine L1 L0 for every steps 
 2) analysis, new analysis for proton at surface, and orientation, MRT, coverage, check the notes in phone and catatan di rumah; DONE
 3) chang systyem, need to be run, analysis discussed by christina
-4) update gpage, cv, motivation letter, research statement and do apply
+4) update gpage
 5) continue all system, FLAT is already more than 10ns; CHECK CUBIC WHETHER IT NEED ACTIVE LEARN; I BELIEVE THERE IS DATA RUN ON HPC; CHECK
 6) ARKA grid search code DONE
 7) TAUFIK use the same code diff system
