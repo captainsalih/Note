@@ -18,6 +18,7 @@ atomsk system.xyz lmp
 ```
 2) edit the xhi,yhi,zhi similar to the CELL on the input cp2k
 3) check the unit, number of atom, etc
+4) to make it similar to the order of model list, arrange the atom in xyz file as the order of model list
 
 ### REFTRAJ-ENDPOINTS
 1) copy input and dump to REFTRAJ, edit the mass commented or out commented based on the opposite topology
