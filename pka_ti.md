@@ -5,6 +5,7 @@
 4) for intermediate, say 0.5, use hybrid/scaled to generate the trajectory, then rerun twice for each endpoints potential
 5) in case of you train with datatype  1 2 3 4 for X F O H, during the Ti you need to switch from X to H. In this case, you cant change the atom type to 3 as you did where X is train as type 4
 6) instead, keep the datatype as 4 but change the X type to H (1 to 4), and in the input file, do not disable it. Since the type 1 or X is not exist, Lammps still run (order of datatype is presented), but does not count it since its not exist
+7) as lmp file build with atomsk only care about the different between element, in case for the same model that know 1 2 3 4 for X F O H, while you only have O H (for hydronium), just create a random element for X and F so the lmp will be ordered as 1 for X, 2 for F, etc, once the lmp is build, you can delete it, and do similar to number 5-6
 
 # RECIPE
 1) Input
