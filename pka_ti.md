@@ -3,6 +3,8 @@
 2) use reftraj on the generated trajectory, and rerun with the opposite potential
 3) evaluate the gap
 4) for intermediate, say 0.5, use hybrid/scaled to generate the trajectory, then rerun twice for each endpoints potential
+5) in case of you train with datatype  1 2 3 4 for X F O H, during the Ti you need to switch from X to H. In this case, you cant change the atom type to 3 as you did where X is train as type 4
+6) instead, keep the datatype as 4 but change the X type to H (1 to 4), and in the input file, do not disable it. Since the type 1 or X is not exist, Lammps still run (order of datatype is presented), but does not count it since its not exist
 
 # RECIPE
 1) Input
